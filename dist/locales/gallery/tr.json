@@ -1,0 +1,16 @@
+{
+  "generations": "Yaratılanlar",
+  "showGenerations": "Yaratılanları göster",
+  "uploads": "Yüklemeler",
+  "showUploads": "Yüklenenleri Göster",
+  "galleryImageSize": "Resim Boyutu",
+  "galleryImageResetSize": "Boyutu Sıfırla",
+  "gallerySettings": "Galeri Ayarları",
+  "maintainAspectRatio": "En-Boy oranını koru",
+  "autoSwitchNewImages": "Yeni görüntülere otomatik geçiş yap",
+  "singleColumnLayout": "Tek kolon düzeni",
+  "pinGallery": "Galeriyi Sabitle",
+  "allImagesLoaded": "Tüm resimler yüklendi",
+  "loadMore": "Galeriyi Yükle",
+  "noImagesInGallery": "Galeride resim yok"
+}

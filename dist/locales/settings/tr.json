@@ -1,0 +1,13 @@
+{
+  "models": "Modeller",
+  "displayInProgress": "Üzerinde Çalışılanı Görüntüle",
+  "saveSteps": "Görüntüleri her \"n\" adımda bir kaydet",
+  "confirmOnDelete": "Silindiğinde Onayla",
+  "displayHelpIcons": "Yardım Simgelerini Görüntüle",
+  "useCanvasBeta": "Beta Canvas Düzenini Kullan",
+  "enableImageDebugging": "Görüntü Hata Ayıklamayı Etkinleştir",
+  "resetWebUI": "Web Kullanıcı Arayüzünü Sıfırla",
+  "resetWebUIDesc1": "Web kullanıcı arayüzünü sıfırlamak, yalnızca tarayıcının yerel önbelleğindeki resimlerinizi ve hatırlanan ayarları sıfırlar. Diskten hiçbir resmi silmez.",
+  "resetWebUIDesc2": "Görseller galeride görünmüyorsa veya başka bir şey çalışmıyorsa, lütfen önce sıfırlamayı deneyin.",
+  "resetComplete": "Web kullanıcı arayüzü sıfırlandı. Yeniden yüklemek için sayfayı yenileyin."
+}

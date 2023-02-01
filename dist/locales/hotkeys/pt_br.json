@@ -76,6 +76,10 @@
     "title": "Apagar Imagem",
     "desc": "Apaga a imagem atual"
   },
+  "addToFavourite": {
+    "title": "Adicionar aos favoritos",
+    "desc": "Adicionar a imagem atual aos Favoritos"
+  },
   "closePanels": {
     "title": "Fechar Painéis",
     "desc": "Fecha os painéis abertos"

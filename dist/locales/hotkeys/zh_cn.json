@@ -76,6 +76,10 @@
     "title": "删除图像",
     "desc": "删除当前图像"
   },
+  "addToFavourite": {
+    "title": "添加到收藏夹",
+    "desc": "将当前图像添加到收藏夹"
+  },
   "closePanels": {
     "title": "关闭浮窗",
     "desc": "关闭目前打开的浮窗"

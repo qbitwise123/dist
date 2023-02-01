@@ -76,6 +76,10 @@
     "title": "Delete Image",
     "desc": "Delete the current image"
   },
+  "addToFavourite": {
+    "title": "Add to Favourite",
+    "desc": "Add the current image to Favourite"
+  },
   "closePanels": {
     "title": "Close Panels",
     "desc": "Closes open panels"

@@ -76,6 +76,10 @@
     "title": "Eliminar imagen",
     "desc": "Eliminar imagen actual"
   },
+  "addToFavourite": {
+    "title": "Agregar a favoritos",
+    "desc": "Agregar la imagen actual a Favoritos"
+  },
   "closePanels": {
     "title": "Cerrar páneles",
     "desc": "Cerrar los páneles abiertos"

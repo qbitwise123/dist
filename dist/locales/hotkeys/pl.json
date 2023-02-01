@@ -76,6 +76,10 @@
     "title": "Usuń obraz",
     "desc": "Usuwa aktywny obraz"
   },
+  "addToFavourite": {
+    "title": "Dodaj do ulubionych",
+    "desc": "Dodaj bieżący obraz do Ulubionych"
+  },
   "closePanels": {
     "title": "Zamknij panele",
     "desc": "Zamyka wszystkie otwarte panele"

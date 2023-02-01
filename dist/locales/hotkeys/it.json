@@ -76,6 +76,10 @@
     "title": "Elimina immagine",
     "desc": "Elimina l'immagine corrente"
   },
+  "addToFavourite": {
+    "title": "Aggiungi ai preferiti",
+    "desc": "Aggiungi l'immagine corrente ai Preferiti"
+  },
   "closePanels": {
     "title": "Chiudi pannelli",
     "desc": "Chiude i pannelli aperti"

@@ -76,6 +76,10 @@
     "title": "Görüntüyü Sil",
     "desc": "Mevcut Görüntüyü Sil"
   },
+  "addToFavourite": {
+    "title": "Favoriye Ekle",
+    "desc": "Geçerli görüntüyü Sık Kullanılanlara ekle"
+  },
   "closePanels": {
     "title": "Panelleri Kapat",
     "desc": "Açık panelleri kapatır"

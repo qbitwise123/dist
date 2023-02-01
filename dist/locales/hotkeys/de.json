@@ -76,6 +76,10 @@
     "title": "Bild löschen",
     "desc": "Aktuelles Bild löschen"
   },
+  "addToFavourite": {
+    "title": "Zu Favoriten hinzufügen",
+    "desc": "Fügen Sie das aktuelle Bild zu den Favoriten hinzu"
+  },
   "closePanels": {
     "title": "Panels schließen",
     "desc": "Schließt offene Panels"

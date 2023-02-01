@@ -57,6 +57,7 @@
   "useInitImg": "使用原图像",
   "info": "信息",
   "deleteImage": "删除图像",
+  "addToFavourite": "添加到收藏夹",
   "initialImage": "原图像",
   "showOptionsPanel": "显示选项浮窗"
 }

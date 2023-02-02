@@ -1,0 +1,15 @@
+{
+  "feature": {
+    "prompt": "Bu bilgi istemi alanıdır. Bilgi istemi, oluşturma nesnelerini ve biçimsel terimleri içerir. Bilgi istemine ağırlık (belirteç önemi) de ekleyebilirsiniz, ancak CLI komutları ve parametreleri çalışmayacaktır.",
+    "gallery": "Galeri, çıktılar klasöründeki nesilleri oluşturuldukları şekliyle görüntüler. Ayarlar, dosyalar içinde saklanır ve içerik menüsünden erişilir.",
+    "other": "Bu seçenekler alternatif işleme modlarını etkinleştirir. 'Dikişsiz döşeme', çıktıda yinelenen desenler oluşturur. 'Yüksek çözünürlük', img2img ile iki adımda oluşturulur: daha büyük ve daha tutarlı bir görüntü istediğinizde bu ayarı kullanın. Artefaktsız görüntü. Normal txt2img'den daha uzun sürer.",
+    "seed": "Tohum değeri, görüntünün oluşturulduğu ilk gürültüyü etkiler. Önceki görüntülerde zaten var olan çekirdekleri kullanabilirsiniz. 'Gürültü Eşiği', yüksek CFG değerlerinde yapıları azaltmak için kullanılır (0-10 aralığını deneyin) ve Perlin oluşturma sırasında Perlin gürültüsü eklemek için: her ikisi de çıktılarınıza varyasyon eklemeye hizmet eder.",
+    "variations": "Belirli bir tohum için sonucu değiştirmek üzere 0,1 ile 1,0 arasında bir değere sahip bir varyasyonu deneyin. Tohumun ilginç varyasyonları 0,1 ile 0,3 arasındadır.",
+    "upscale": "Görüntüyü oluşturduktan hemen sonra büyütmek için ESRGAN'ı kullanın.",
+    "faceCorrection": "GFPGAN veya Codeformer ile yüz düzeltme: algoritma görüntüdeki yüzleri algılar ve tüm kusurları düzeltir. Yüksek değer görüntüyü daha fazla değiştirerek daha çekici yüzler sağlar. Daha yüksek aslına uygun Codeformer orijinal görüntüyü pahasına korur daha güçlü yüz düzeltme.",
+    "imageToImage": "Görüntüden Görüntüye herhangi bir görüntüyü ilk olarak yükler, ardından bilgi istemiyle birlikte yeni bir tane oluşturmak için kullanılır. Değer ne kadar yüksek olursa, sonuç görüntüsü o kadar fazla değişir. 0,0 ila 1,0 arasında değerler mümkündür, önerilen aralık .25-.75",
+    "boundingBox": "Sınırlayıcı kutu, Metinden Görüntüye veya Görüntüden Görüntüye Genişlik ve Yükseklik ayarlarıyla aynıdır. Yalnızca kutudaki alan işlenecektir.",
+    "seamCorrection": "Tuval üzerinde oluşturulan görüntüler arasında oluşan görünür dikişlerin işlenmesini kontrol eder.",
+    "infillAndScaling": "Dolgu yöntemlerini (tuvalin maskelenmiş veya silinmiş alanlarında kullanılır) ve ölçeklendirmeyi (küçük sınırlayıcı kutu boyutları için kullanışlıdır) yönetin."
+  }
+}
